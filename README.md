@@ -34,6 +34,7 @@ I am Siavash from Iran , and I'm a web developer and I really enjoy it. I starte
 </p>
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SiavashKaseb&theme=tokyonight)](https://github.com/SiavashKaseb)
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -41,7 +42,7 @@ I am Siavash from Iran , and I'm a web developer and I really enjoy it. I starte
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SiavashKaseb&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiavashKaseb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <p align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=SiavashKaseb&bg_color=151515&point=E91E63&line=FFFFFF&theme=nord&count_private=true"  alt="ariaramin"/>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=SiavashKaseb&bg_color=151515&point=E91E63&line=FFFFFF&theme=nord&count_private=true"  alt="Siavash Kaseb"/>
 </p>
 
 
@@ -61,9 +62,13 @@ I am Siavash from Iran , and I'm a web developer and I really enjoy it. I starte
 <details>
   <summary>:zap:  Week Stats</summary>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=momaka)][github]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=momaka&theme=tokyonight)][github]
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=momaka&layout=compact)][github]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=momaka&theme=tokyonight&layout=compact)][github]
+
+![](https://github.com/SiavashKaseb/github-stats/blob/master/generated/overview.svg)
+
+![](https://github.com/SiavashKaseb/github-stats/blob/master/generated/languages.svg)
 
 </details>
 
