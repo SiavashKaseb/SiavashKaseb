@@ -56,6 +56,7 @@
 </div>
 
 ###
+<h3 align="left">🧑🏻‍💻 My stats:</h3>
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=momaka&theme=tokyonight&layout=compact)
 
