@@ -57,16 +57,15 @@
 
 ###
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=momaka&theme=tokyonight)][github]
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=momaka&theme=tokyonight&layout=compact)][github]
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=momaka&theme=tokyonight&layout=compact)
 
 
-![](https://github.com/SiavashKaseb/github-stats/blob/master/generated/languages.svg)
 
-<div align="center">
+
+<div align="left">
 
 ###
+<h3 align="left">🎧 Listen with me:</h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ik4x7kibx9daw5r3o7k5tqbca)
 
